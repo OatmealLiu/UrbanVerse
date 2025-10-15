@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UrbanVerse Teaser</title>
+    <style>
+      html, body { margin: 0; padding: 0; background: #0b0b0b; color: #eee; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+      .container { max-width: 1200px; margin: 24px auto; padding: 0 16px; }
+      .player { position: relative; width: 100%; aspect-ratio: 16 / 9; background: #000; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.4); }
+      .player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+      .caption { margin-top: 12px; opacity: 0.8; font-size: 14px; }
+      a { color: #8ab4f8; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="player">
+        <video
+          src="../material/long_teaser_v10.mp4"
+          poster="../material/hero_poster.png"
+          autoplay
+          loop
+          muted
+          playsinline
+          controls
+          style="width:100%; height:100%; object-fit:cover;"
+        ></video>
+      </div>
+      <div class="caption">
+        Autoplay is muted for reliability. If video doesn't start, click play or <a href="../material/long_teaser_v10.mp4">download MP4</a>.
+      </div>
+    </div>
+  </body>
+  </html>
+

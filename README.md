@@ -22,7 +22,7 @@
 > *Introducing UrbanVerse — a system that converts real-world urban scenes from city-tour videos into physics-aware, interactive simulation environments enabling scalable robot learning in urban spaces with real-world generalization.*
 
 
-<a href="https://youtu.be/zMvDiAVUY5I">
+<a href="docs/index.html">
   <img src="material/hero_poster.png" alt="UrbanVerse teaser video" style="width: 100%; border-radius: 8px;" />
 </a>
 
