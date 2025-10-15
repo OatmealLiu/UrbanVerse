@@ -44,7 +44,6 @@
 
 
 ## Citation
-Should you find our paper valuable to your work, please cite:
 ```bibtex
 @inproceedings{
     liu2024democratizing,
