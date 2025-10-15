@@ -22,13 +22,13 @@
 > *Introducing UrbanVerse — a system that converts real-world urban scenes from city-tour videos into physics-aware, interactive simulation environments enabling scalable robot learning in urban spaces with real-world generalization.*
 
 
-<a href="material/long_teaser_v10.mp4">
+<a href="https://youtu.be/zMvDiAVUY5I">
   <img src="material/hero_poster.png" alt="UrbanVerse teaser video" style="width: 100%; border-radius: 8px;" />
 </a>
 
 
 ## Updates
-- **Oct 16, 2025** — Preprint available on arXiv [[here]](https://arxiv.org/abs/xxxx.xxxxx)
+- **Oct 16, 2025** — Preprint available on arXiv [here](https://arxiv.org/abs/xxxx.xxxxx)
 
 ## Open-Source Roadmap (priority order)
 - [ ] **UrbanVerse-100K Dataset**: release annotations and rescaled assets
