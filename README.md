@@ -1,6 +1,6 @@
 # UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos
 
-**arXiv preprint, 2025**
+**Technical report, arXiv, 2025**
 
 [![Project Page](https://img.shields.io/badge/🌐-Project%20Page-3c78d8?style=flat-square)](https://urbanverseproject.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
