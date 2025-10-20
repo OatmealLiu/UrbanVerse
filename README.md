@@ -1,6 +1,6 @@
 # UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos
 
-**Technical report, arXiv, 2025**
+**Technical report, arXiv:2510.15018, 2025**
 
 [![Project Page](https://img.shields.io/badge/🌐-Project%20Page-3c78d8?style=flat-square)](https://urbanverseproject.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.15018)
@@ -30,7 +30,7 @@
 
 
 ## Updates
-- **Oct 20, 2025** — UrbanVerse is now available [here](https://urbanverseproject.github.io/)
+- **Oct 20, 2025** — UrbanVerse technical report is now available [here](https://urbanverseproject.github.io/)
 
 ## Open-Source Roadmap (priority order)
 - [ ] **UrbanVerse-100K Dataset**: release annotations and rescaled assets
