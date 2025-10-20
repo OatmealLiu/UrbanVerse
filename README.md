@@ -3,7 +3,7 @@
 **Technical report, arXiv, 2025**
 
 [![Project Page](https://img.shields.io/badge/🌐-Project%20Page-3c78d8?style=flat-square)](https://urbanverseproject.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.15018)
 
 ---
 
@@ -30,7 +30,7 @@
 
 
 ## Updates
-- **Oct 16, 2025** — Preprint available on arXiv [here](https://arxiv.org/abs/xxxx.xxxxx)
+- **Oct 20, 2025** — UrbanVerse is now available [here](https://urbanverseproject.github.io/)
 
 ## Open-Source Roadmap (priority order)
 - [ ] **UrbanVerse-100K Dataset**: release annotations and rescaled assets
@@ -45,12 +45,13 @@
 
 ## Citation
 ```bibtex
-@inproceedings{
-    liu2024democratizing,
-    title={Democratizing Fine-grained Visual Recognition with Large Language Models},
-    author={Mingxuan Liu and Subhankar Roy and Wenjing Li and Zhun Zhong and Nicu Sebe and Elisa Ricci},
-    booktitle={The Twelfth International Conference on Learning Representations},
-    year={2024},
-    url={https://openreview.net/forum?id=c7DND1iIgb}
+@misc{liu2025urbanversescalingurbansimulation,
+      title={UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos}, 
+      author={Mingxuan Liu and Honglin He and Elisa Ricci and Wayne Wu and Bolei Zhou},
+      year={2025},
+      eprint={2510.15018},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.15018}, 
 }
 ```
