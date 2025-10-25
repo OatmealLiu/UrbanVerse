@@ -45,13 +45,10 @@
 
 ## Citation
 ```bibtex
-@misc{liu2025urbanversescalingurbansimulation,
-      title={UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos}, 
-      author={Mingxuan Liu and Honglin He and Elisa Ricci and Wayne Wu and Bolei Zhou},
-      year={2025},
-      eprint={2510.15018},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.15018}, 
+@article{liu2025urbanverse,
+  title={UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos},
+  author={Liu, Mingxuan and He, Honglin and Ricci, Elisa and Wu, Wayne and Zhou, Bolei},
+  journal={arXiv preprint arXiv:2510.15018},
+  year={2025}
 }
 ```
